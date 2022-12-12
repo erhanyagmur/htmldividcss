@@ -1,0 +1,45 @@
+/* CSS Document */
+html,body{
+	margin:0px;
+	padding:0px;
+	background-color:#E5E5E5;
+}
+#main-wrap{
+	width:796px;
+	margin:auto;
+	background-color:#CCCCCC;
+	padding:2px;
+}
+#header{
+	height:100px;
+	margin-bottom:2px;
+	line-height:100px;
+	text-align:center;
+	font-size:36px;
+	color:yellow;
+	background-image:url(div.png);
+	background-repeat:repeat-x;
+}
+#content{
+	float:right;
+	width:640px;
+	padding:5px;
+	color:#00F;
+	background-color:#09F;
+	text-align:center;
+}
+#navigation{
+	margin-right:652px;
+	padding:5px;
+	color:#C60;
+	background-color:#999;
+}
+#footer{
+	clear:both;
+	margin-top:2px;
+	padding:5px;
+	color:#CF6;
+	background-color:orange;
+	text-align:center;
+}
+
